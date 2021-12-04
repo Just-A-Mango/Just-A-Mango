@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **C#, C++, and Java**
 
-- 🤝 I’m looking for help with [**Fox, a programming language I'm writing in Python**](https://github.com/Just-A-Mango/fox)
-
 - 👨‍💻 All of my projects are available [**here**](https://github.com/Just-A-Mango?tab=repositories)
 
 - 📫 How to reach me **justamango@altmails.com**
