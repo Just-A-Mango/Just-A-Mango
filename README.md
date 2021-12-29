@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Just_a_Mango</h1>
 <h3 align="center">A developer and space-passionate</h3>
 
-- 🔭 I’m currently working on:  &nbsp;[**Fox**, my own programming language (private for now)](https://github.com/Just-A-Mango/fox)  
+- 🔭 I’m currently working on:  &nbsp;[**Fox**, my own programming language (private for now)](https://just-a-mango.github.io/foxweb/)  
                                 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   [**Enlightened**, an action-adventure open-world game](https://just-a-mango.github.io/me/Enlightened.html)  
                                 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   [**Ball Madness**, a platformer game where you play a ***BALL***](https://just-a-mango.github.io/me/Ball-Madness.html)  
                                 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   **Two minecraft mods: [Vertical Slabs](https://github.com/Just-A-Mango/VerticalSlabs) and [Simpler Options](https://github.com/Just-A-Mango/SimplerOptions)**
