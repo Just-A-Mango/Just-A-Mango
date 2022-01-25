@@ -7,7 +7,7 @@
                                 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   **Two minecraft mods: [Vertical Slabs](https://github.com/Just-A-Mango/VerticalSlabs) and [Simpler Options](https://github.com/Just-A-Mango/SimplerOptions)**
                                
 
-- 🆘 I’m currently looking for help with **Fox**, my own programming language made in **Python**. Contact me if interested (**not paid, pure volunteering**) 
+- 🆘 I’m currently looking for help with **Mango** (**not paid, pure volunteering**) 
 
 - 🌱 I’m currently learning **C#, C++, and Java**
 
