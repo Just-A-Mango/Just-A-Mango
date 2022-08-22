@@ -1,5 +1,5 @@
-# 💫 About Me:
-- 💖 I love: programming, space, physics, math, and technology in general
+# About Me:
+- ❤️ I love: programming, space, physics, math, and technology in general
 
 - 🔭 I’m currently working on **multiple projects**
 
