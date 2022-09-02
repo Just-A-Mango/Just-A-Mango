@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **justamango@altmails.com**
 
-- 🕸️ My website: **[justamango.vercel.app](justamango.vercel.app)**
+- 🕸️ My website: **[justamango.me](justamango.me)**
 
 
 ## 🌐 Socials:
