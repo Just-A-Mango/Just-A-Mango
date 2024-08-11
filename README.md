@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available [**here**](https://github.com/Just-A-Mango?tab=repositories)
 
-- 📫 How to reach me: **justamango@altmails.com**
+- 📫 How to reach me: **horace.hoff@gmail.com**
 
 - 🕸️ My website: **[just-a-mango.github.io](https://just-a-mango.github.io)**
 
