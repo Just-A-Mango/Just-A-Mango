@@ -1,5 +1,5 @@
-# About Me:
-- ❤️ I love: programming, space, physics/math
+## Hi, I'm Horace 👋
+- ❤️ I love imagining and creating rockets, robots, programs, and websites. I'm passionate about space, coding, technology, math, physics, and sometimes skateboarding.
   
 - 👨‍💻 All of my projects are available [**here**](https://github.com/horacehoff?tab=repositories)
 
